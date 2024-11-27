@@ -1,2 +1,2 @@
-# 2024-Customer-Churn-Exploratory-Data-Analysis
-This is an assignment from Data Science Bootcamp at dibimbing.id to analyze the customer churn dataset.
+# Customer Churn Exploratory Data Analysis
+In this project, we are given the Telco Customer Churn dataset. Then, we have to do exploratory data analysis over the whole dataset.
